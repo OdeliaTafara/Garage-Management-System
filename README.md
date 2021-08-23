@@ -10,3 +10,9 @@ Objectives:
 - Working with numerous projects
 - Working with Exceptions
 
+- This solution contains two C# project: GarageLogic and ConsoleUI.
+- GrageLogic: This project creates a .dll file which contains only the object model and the logical layer of the system.
+- ConsoleUI: This project creates the exe and incorporates the user interface implementation of the garage management system for the console.
+
+
+
