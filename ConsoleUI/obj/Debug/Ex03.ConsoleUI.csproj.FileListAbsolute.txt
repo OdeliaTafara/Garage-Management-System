@@ -1,0 +1,2 @@
+C:\MyProjects\HW\Ex3\B21 Ex03 OdeliaTafara 316568088 ShayRachmany 208387852\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\MyProjects\HW\Ex3\B21 Ex03 OdeliaTafara 316568088 ShayRachmany 208387852\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
